@@ -1,0 +1,8 @@
+.active{
+    color: #6366F1;
+    border-radius: 0.375rem;
+  
+}
+.active span{
+    color: white;
+}
